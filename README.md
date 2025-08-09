@@ -1,6 +1,6 @@
 # CAP4770-Group1
 1. Problem Statement & Background (10 pts)
-We aim to predict the flight status of passengers (Cancelled, On Time, Other) based on demographics, airport location, and time of travel. This project will use classification techniques to explore relationships between traveler attributes and flight reliability.
+Using supply chain GHG emission factor data by NAICS code, we aim to cluster similar emission profiles, detect emission anomalies, and model predictors of emission intensity.
 
 We can explain why this matters
 
